@@ -17,7 +17,7 @@ Hier eine Liste von Förderungen und Ausgaben, Leere Zellen in 2023 heisst, dass
 | Stadt Würzburg Inklusion | 5300 | \-- |
 | Bezirk Unterfranken - Unterfränkische Kulturstiftung | 10\.000 | 10\.000 |
 | Freistaat Bayern, KuMi | 10\.000 | ? |
-| Bund (Neustart Kultur) |  | 58\.000 |
+| Bund (Neustart Kultur) | 60/.000 | 58\.000 |
 | Landkreis Würzburg Würzburg | 1500 |  |
 | Deutscher Literaturfonds | \-- | 2780 |
 | Sparkassenstiftung | 2500 | 2500 |
