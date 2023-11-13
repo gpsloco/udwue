@@ -45,4 +45,4 @@ Entwicklung des Gesamtkostenrahmens (€, 2023 teilw. geschätzt, 2024 als Progn
 |  |  |  |  |
 
 ## Grafische Version:
-<embed src="https://gpsloco.github.io/UundD_Foerderbedarf23_24_20231011_DD.pdf" type="application/pdf" width="600px" height="1500px" />
+<embed src="https://gpsloco.github.io/docs/zahlen.pdf" type="application/pdf" width="600px" height="1500px" />
