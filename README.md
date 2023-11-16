@@ -44,5 +44,3 @@ Entwicklung des Gesamtkostenrahmens (€, 2023 teilw. geschätzt, 2024 als Progn
 | 500\.000 | 575\.000 | 650\.000 | 715\.000 |
 |  |  |  |  |
 
-## Grafische Version:
-<embed src="https://gpsloco.github.io/docs/zahlen.pdf" type="application/pdf" width="600px" height="1500px" />
